@@ -1,7 +1,7 @@
 # 🌟 Insurance Cost Prediction 🚀
 
 ## 📌 Project Overview
-Welcome to the **Insurance Cost Prediction** project! This machine learning model predicts insurance charges based on various factors such as age, BMI, smoking status, and region.
+Welcome to the **Insurance Cost Prediction** project! This machine learning model predicts insurance charges based on various factors such as age, BMI, smoking habits, gender, dependents, and region.
 
 
 ## 📂 Dataset Information
