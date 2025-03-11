@@ -37,6 +37,10 @@ Welcome to the **Insurance Cost Prediction** project! This machine learning mode
 - 📌 **Mean Squared Error (MSE)**
 - 📌 **Root Mean Squared Error (RMSE)**
 
+## 🔍 Hyperparameter Tuning & Optimization
+- Used **GridSearchCV** and **RandomizedSearchCV** for fine-tuning model hyperparameters.
+- Applied **cross-validation** techniques to improve model generalization.
+
 ## 🔑 Key Insights
 - 🚬 **Smoking** has a significant impact on insurance costs, with smokers being charged much higher.
 - 📈 **BMI and Age** also strongly influence the predicted cost.
