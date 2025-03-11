@@ -1,7 +1,8 @@
 # 🌟 Insurance Cost Prediction 🚀
 
 ## 📌 Project Overview
-This project aims to predict medical expenses for risk assessment, premium determination, and profitability. It analyzes factors like age, BMI, smoking habits, gender, dependents, and region. The goal is to uncover patterns, prepare data, and evaluate ML models to enhance risk assessment and customer benefits while minimizing financial risks.
+Welcome to the **Insurance Cost Prediction** project! This machine learning model predicts insurance charges based on various factors such as age, BMI, smoking status, and region.
+
 
 ## 📂 Dataset Information
 - **📄 File:** Insurance.csv
