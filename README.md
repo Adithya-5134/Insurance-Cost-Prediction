@@ -16,26 +16,42 @@ Welcome to the **Insurance Cost Prediction** project! This machine learning mode
   - 💰 charges: Insurance charges (Target Variable)
 
 ## 🔍 Model Implementation
+
 - **📜 File:** INSURANCE_COST_PREDICTION_final.ipynb
+- 
 - **🛠️ Steps Followed:**
+- 
   1. 🏗️ **Data Preprocessing** - Handling missing values, encoding categorical data
+
   2. 📊 **Exploratory Data Analysis (EDA)** - Identifying correlations and distributions
+
   3. 🤖 **Model Selection** - Training different regression models
+
   4. 📈 **Model Evaluation** - Comparing accuracy and performance metrics
 
 ## 🤖 Models Used
+
 - 🔹 **Linear Regression**
+  
 - 🔹 **Decision Tree Regressor**
+  
 - 🔹 **Random Forest Regressor**
+  
 - 🔹 **Gradient Boosting Regressor**
+  
 - 🔹 **XGBoost Regressor**
+  
 - 🔹 **K-Nearest Neighbors (KNN) Regressor**
 
 
 ## 📉 Metrics Used
+
 - 📌 **R² Score**
+  
 - 📌 **Mean Absolute Error (MAE)**
+  
 - 📌 **Mean Squared Error (MSE)**
+
 - 📌 **Root Mean Squared Error (RMSE)**
 
 ## 🔍 Hyperparameter Tuning & Optimization
