@@ -45,4 +45,4 @@ Welcome to the **Insurance Cost Prediction** project! This machine learning mode
 ## 🎯 Conclusion
 This project successfully predicts insurance charges using multiple regression models. The **Random Forest Regressor** performed the best among the models tested. The findings highlight that smoking, BMI, and age are crucial factors in determining insurance costs.
 
-Happy Coding! 🎉🚀
+
